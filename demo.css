@@ -8,3 +8,7 @@
 .ZetIndexMaximum {
   z-index: 9;
 }
+#digital_watch{
+  text-align: center;
+  font-size: 24px;
+}

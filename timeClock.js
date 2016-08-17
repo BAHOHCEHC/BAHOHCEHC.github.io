@@ -1,8 +1,3 @@
-$(function() {
-
-	$(".test-plugin").magnifierRentgen();
-
-
 function digitalWatch() {
     var date = new Date();
     var hours = date.getHours();
@@ -15,7 +10,3 @@ function digitalWatch() {
     setTimeout("digitalWatch()", 1000);
   }
 
-
-
-
-})
